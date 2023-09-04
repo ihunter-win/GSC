@@ -1,0 +1,32 @@
+C:\Users\ilshi\OneDrive\Рабочий стол\Курсовая работа. Сухов А.А. 15 вариант\kursa4\MainThread\obj\Debug\MyCourse.exe
+C:\Users\ilshi\OneDrive\Рабочий стол\Курсовая работа. Сухов А.А. 15 вариант\kursa4\MainThread\obj\Debug\MyCourse.pdb
+C:\Users\ilshi\OneDrive\Рабочий стол\Курсовая работа. Сухов А.А. 15 вариант\kursa4\MainThread\bin\Debug\MyCourse.exe.config
+C:\Users\ilshi\OneDrive\Рабочий стол\Курсовая работа. Сухов А.А. 15 вариант\kursa4\MainThread\bin\Debug\MyCourse.exe
+C:\Users\ilshi\OneDrive\Рабочий стол\Курсовая работа. Сухов А.А. 15 вариант\kursa4\MainThread\bin\Debug\MyCourse.pdb
+C:\Users\ilshi\OneDrive\Рабочий стол\Курсовая работа. Сухов А.А. 15 вариант\kursa4\MainThread\obj\Debug\GSK.csproj.AssemblyReference.cache
+C:\Users\ilshi\OneDrive\Рабочий стол\Курсовая работа. Сухов А.А. 15 вариант\kursa4\MainThread\obj\Debug\GSK.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilshi\OneDrive\Рабочий стол\Курсовая работа. Сухов А.А. 15 вариант\kursa4\MainThread\obj\Debug\Std.Form1.resources
+C:\Users\ilshi\OneDrive\Рабочий стол\Курсовая работа. Сухов А.А. 15 вариант\kursa4\MainThread\obj\Debug\Std.Properties.Resources.resources
+C:\Users\ilshi\OneDrive\Рабочий стол\Курсовая работа. Сухов А.А. 15 вариант\kursa4\MainThread\obj\Debug\GSK.csproj.GenerateResource.cache
+C:\Users\ilshi\OneDrive\Рабочий стол\Курсовая работа. Сухов А.А. 15 вариант\kursa4\MainThread\obj\Debug\GSK.csproj.CoreCompileInputs.cache
+C:\Users\zhelo\OneDrive\Рабочий стол\kursa4\MainThread\bin\Debug\MyCourse.exe.config
+C:\Users\zhelo\OneDrive\Рабочий стол\kursa4\MainThread\bin\Debug\MyCourse.exe
+C:\Users\zhelo\OneDrive\Рабочий стол\kursa4\MainThread\bin\Debug\MyCourse.pdb
+C:\Users\zhelo\OneDrive\Рабочий стол\kursa4\MainThread\obj\Debug\GSK.csproj.AssemblyReference.cache
+C:\Users\zhelo\OneDrive\Рабочий стол\kursa4\MainThread\obj\Debug\Std.Form1.resources
+C:\Users\zhelo\OneDrive\Рабочий стол\kursa4\MainThread\obj\Debug\Std.Properties.Resources.resources
+C:\Users\zhelo\OneDrive\Рабочий стол\kursa4\MainThread\obj\Debug\GSK.csproj.GenerateResource.cache
+C:\Users\zhelo\OneDrive\Рабочий стол\kursa4\MainThread\obj\Debug\GSK.csproj.CoreCompileInputs.cache
+C:\Users\zhelo\OneDrive\Рабочий стол\kursa4\MainThread\obj\Debug\MyCourse.exe
+C:\Users\zhelo\OneDrive\Рабочий стол\kursa4\MainThread\obj\Debug\MyCourse.pdb
+C:\Users\ilshi\OneDrive\Рабочий стол\kursa4\MainThread\obj\Debug\MyCourse.exe
+C:\Users\ilshi\OneDrive\Рабочий стол\kursa4\MainThread\obj\Debug\MyCourse.pdb
+C:\Users\ilshi\OneDrive\Рабочий стол\kursa4\MainThread\bin\Debug\MyCourse.exe.config
+C:\Users\ilshi\OneDrive\Рабочий стол\kursa4\MainThread\bin\Debug\MyCourse.exe
+C:\Users\ilshi\OneDrive\Рабочий стол\kursa4\MainThread\bin\Debug\MyCourse.pdb
+C:\Users\ilshi\OneDrive\Рабочий стол\kursa4\MainThread\obj\Debug\GSK.csproj.AssemblyReference.cache
+C:\Users\ilshi\OneDrive\Рабочий стол\kursa4\MainThread\obj\Debug\GSK.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilshi\OneDrive\Рабочий стол\kursa4\MainThread\obj\Debug\Std.Form1.resources
+C:\Users\ilshi\OneDrive\Рабочий стол\kursa4\MainThread\obj\Debug\Std.Properties.Resources.resources
+C:\Users\ilshi\OneDrive\Рабочий стол\kursa4\MainThread\obj\Debug\GSK.csproj.GenerateResource.cache
+C:\Users\ilshi\OneDrive\Рабочий стол\kursa4\MainThread\obj\Debug\GSK.csproj.CoreCompileInputs.cache
